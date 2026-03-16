@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Designer Uhr",
+    "price": 129.00,
+    "description": "Elegante Armbanduhr mit Lederarmband.",
+    "image": "images/uhr.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Kaffeemaschine",
+    "price": 89.90,
+    "description": "Vollautomatische Kaffeemaschine für perfekten Genuss.",
+    "image": "images/produkt2.jpg"
+  }
+]
